@@ -1,0 +1,42 @@
+[
+  {
+    "name": {
+      "th-TH": "ข้าวหมูกรอบ",
+      "en-US": "Crispy pork rice"
+    },
+    "calories": 500,
+    "contain": ["rice", "pork"],
+    "taste": [],
+    "styles": ["chinese"]
+  },
+  {
+    "name": {
+      "th-TH": "ข้าวมันไก่",
+      "en-US": "Chicken rice"
+    },
+    "calories": 500,
+    "contain": ["rice", "chicken"],
+    "taste": [],
+    "styles": ["chinese"]
+  },
+  {
+    "name": {
+      "th-TH": "ข้าวขาหมู",
+      "en-US": "BBQ pork Rice"
+    },
+    "calories": 500,
+    "contain": ["rice", "pork"],
+    "taste": [],
+    "styles": ["chinese"]
+  },
+  {
+    "name": {
+      "th-TH": "ข้าวกะเพราหมูกรอบ",
+      "en-US": "Fried crispy pork with basil leaves rice"
+    },
+    "calories": 500,
+    "contain": ["rice", "pork", "basil"],
+    "taste": [],
+    "styles": ["chinese"]
+  }
+]

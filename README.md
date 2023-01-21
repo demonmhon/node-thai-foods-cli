@@ -22,3 +22,9 @@ Install global package
 ```bash
 $ npm i -g .
 ```
+
+## Available CLI
+
+```bash
+$ ls
+```
