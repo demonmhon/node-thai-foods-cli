@@ -5,7 +5,7 @@ export interface FoodName {
 export interface FoodItem {
   name: FoodName;
   calories: Number;
-  contain: string[];
+  ingredient: string[];
   taste: string[];
   styles: string[];
 }

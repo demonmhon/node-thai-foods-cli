@@ -5,9 +5,9 @@
       "en-US": "Crispy pork rice"
     },
     "calories": 500,
-    "contain": ["rice", "pork"],
+    "ingredient": ["RICE", "PORK"],
     "taste": [],
-    "styles": ["chinese"]
+    "styles": ["CHINESE"]
   },
   {
     "name": {
@@ -15,19 +15,19 @@
       "en-US": "Chicken rice"
     },
     "calories": 500,
-    "contain": ["rice", "chicken"],
+    "ingredient": ["RICE", "chicken"],
     "taste": [],
-    "styles": ["chinese"]
+    "styles": ["CHINESE"]
   },
   {
     "name": {
       "th-TH": "ข้าวขาหมู",
-      "en-US": "BBQ pork Rice"
+      "en-US": "BBQ pork rice"
     },
     "calories": 500,
-    "contain": ["rice", "pork"],
+    "ingredient": ["RICE", "PORK"],
     "taste": [],
-    "styles": ["chinese"]
+    "styles": ["CHINESE"]
   },
   {
     "name": {
@@ -35,8 +35,38 @@
       "en-US": "Fried crispy pork with basil leaves rice"
     },
     "calories": 500,
-    "contain": ["rice", "pork", "basil"],
+    "ingredient": ["RICE", "PORK", "Basil"],
     "taste": [],
-    "styles": ["chinese"]
+    "styles": ["CHINESE"]
+  },
+  {
+    "name": {
+      "th-TH": "ข้าวเหนียว หมูปิ้ง",
+      "en-US": "Pork grill and sticky rice"
+    },
+    "calories": 500,
+    "ingredient": ["RICE", "PORK", "STICKY_RICE"],
+    "taste": [],
+    "styles": ["thai"]
+  },
+  {
+    "name": {
+      "th-TH": "ข้าวไข่เจียวหมูสับ",
+      "en-US": "Rice and omelette"
+    },
+    "calories": 500,
+    "ingredient": ["EGG", "RICE"],
+    "taste": [],
+    "styles": ["thai"]
+  },
+  {
+    "name": {
+      "th-TH": "ทูน่าสลัด",
+      "en-US": "Tuna Salad"
+    },
+    "calories": 500,
+    "ingredient": ["TUNA", "VEGETABLE"],
+    "taste": [],
+    "styles": ["english"]
   }
 ]
